@@ -1,0 +1,15 @@
+Steps to Run..
+
+1) Open Eclipse IDE
+ 
+2) File->open projects from the file system , and import the code.
+
+3)Import the Database.sql file to the mysql workbench
+
+4) install and configure the tomcat server
+
+5) Select the Project->Right Click-> Run As-> Run on Server
+
+6) Additional Jar files are required thery are provided in External Jar folder.
+
+7) Screen Shots of the output is present in the screen shot folder.
